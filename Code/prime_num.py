@@ -7,7 +7,8 @@ for num in range(start_limit,end_limit+1):
     if num > 0:
         for index in range(2,num):
             if (num % index == 0):
+                print ("Not prime number :", num)
                 break
         else:
-            print (num)
+            print ("prime number :", num)
 
