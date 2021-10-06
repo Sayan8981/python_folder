@@ -1,0 +1,867 @@
+{'consider_dates ': ['May 20, 2021', 'May 21, 2021', 'May 22, 2021', 'May 23, 2021', 'May 24, 2021', 'May 25, 2021', 'May 26, 2021', 'May 27, 2021', 'May 28, 2021', 'May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 01, 2021', 'Jun 02, 2021', 'Jun 03, 2021', 'Jun 04, 2021', 'Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021', 'Jun 08, 2021', 'Jun 09, 2021']}
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\01600886-eb6d-4a99-a978-f51bc2e4a9c5_vendor_2530632897090310_20210520_20210609\US_SB Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\01600886-eb6d-4a99-a978-f51bc2e4a9c5_vendor_2530632897090310_20210520_20210609\US_SB Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\01600886-eb6d-4a99-a978-f51bc2e4a9c5_vendor_2530632897090310_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\01600886-eb6d-4a99-a978-f51bc2e4a9c5_vendor_2530632897090310_20210520_20210609\US_SP Advertised product_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\01600886-eb6d-4a99-a978-f51bc2e4a9c5_vendor_2530632897090310_20210520_20210609\US_SP Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\01600886-eb6d-4a99-a978-f51bc2e4a9c5_vendor_2530632897090310_20210520_20210609\US_SP Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\01600886-eb6d-4a99-a978-f51bc2e4a9c5_vendor_2530632897090310_20210520_20210609\US_SP Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\01600886-eb6d-4a99-a978-f51bc2e4a9c5_vendor_2530632897090310_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\01600886-eb6d-4a99-a978-f51bc2e4a9c5_vendor_2530632897090310_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\01600886-eb6d-4a99-a978-f51bc2e4a9c5_vendor_2530632897090310_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\01600886-eb6d-4a99-a978-f51bc2e4a9c5_vendor_2530632897090310_20210520_20210609\US_Sponsored Display_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\0a69495b-350c-4e65-adbd-167358e1f2eb_vendor_976427812200541_20210520_20210609\US_SB Video Keyword_23.csv and missing date ['May 27, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\0a69495b-350c-4e65-adbd-167358e1f2eb_vendor_976427812200541_20210520_20210609\US_SP Advertised product_23.csv and missing date ['May 31, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\0a69495b-350c-4e65-adbd-167358e1f2eb_vendor_976427812200541_20210520_20210609\US_SP Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\0a69495b-350c-4e65-adbd-167358e1f2eb_vendor_976427812200541_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\0a69495b-350c-4e65-adbd-167358e1f2eb_vendor_976427812200541_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\0a69495b-350c-4e65-adbd-167358e1f2eb_vendor_976427812200541_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\0a69495b-350c-4e65-adbd-167358e1f2eb_vendor_976427812200541_20210520_20210609\US_Sponsored Display_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\0d0e7b29-85da-4785-9d1f-cf54b422be9c_seller_3492687976371255_20210520_20210609\US_SB Keyword_23.csv and missing date ['May 29, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\0d0e7b29-85da-4785-9d1f-cf54b422be9c_seller_3492687976371255_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\0d0e7b29-85da-4785-9d1f-cf54b422be9c_seller_3492687976371255_20210520_20210609\US_SP Campaign_23.csv and missing date ['Jun 08, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\0d0e7b29-85da-4785-9d1f-cf54b422be9c_seller_3492687976371255_20210520_20210609\US_Sponsored Display Targeting_23.csv and missing date ['Jun 05, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\0d0e7b29-85da-4785-9d1f-cf54b422be9c_seller_3492687976371255_20210520_20210609\US_Sponsored Display Views_23.csv and missing date ['Jun 03, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\108dcf9c-a588-4850-8759-36f0ce55a194_seller_2358720458325044_20210520_20210609\AU_SB Video Keyword_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\108dcf9c-a588-4850-8759-36f0ce55a194_seller_2358720458325044_20210520_20210609\AU_SP Keyword_23.csv and missing date ['Jun 09, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\108dcf9c-a588-4850-8759-36f0ce55a194_seller_2358720458325044_20210520_20210609\AU_SP Targeting_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\108dcf9c-a588-4850-8759-36f0ce55a194_seller_4136270002643862_20210520_20210609\US_SB Campaign_23.csv and missing date ['May 27, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\108dcf9c-a588-4850-8759-36f0ce55a194_seller_4136270002643862_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\108dcf9c-a588-4850-8759-36f0ce55a194_seller_4136270002643862_20210520_20210609\US_SP Advertised product_23.csv and missing date ['Jun 05, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\108dcf9c-a588-4850-8759-36f0ce55a194_seller_4136270002643862_20210520_20210609\US_SP Targeting_23.csv and missing date ['Jun 03, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\108dcf9c-a588-4850-8759-36f0ce55a194_seller_4136270002643862_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\108dcf9c-a588-4850-8759-36f0ce55a194_seller_4136270002643862_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\108dcf9c-a588-4850-8759-36f0ce55a194_seller_435939217329598_20210520_20210609\UK_SB Video Keyword_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\108dcf9c-a588-4850-8759-36f0ce55a194_seller_435939217329598_20210520_20210609\UK_SP Advertised product_23.csv and missing date ['May 26, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\108dcf9c-a588-4850-8759-36f0ce55a194_seller_435939217329598_20210520_20210609\UK_SP Campaign_23.csv and missing date ['Jun 02, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\108dcf9c-a588-4850-8759-36f0ce55a194_seller_435939217329598_20210520_20210609\UK_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\108dcf9c-a588-4850-8759-36f0ce55a194_seller_435939217329598_20210520_20210609\UK_Sponsored Display Targeting_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\1ce2a704-cae4-4338-a252-124f3a5bbc83_vendor_4435862729633959_20210520_20210609\US_SB Campaign_23.csv and missing date ['May 30, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\1ce2a704-cae4-4338-a252-124f3a5bbc83_vendor_4435862729633959_20210520_20210609\US_SP Campaign_23.csv and missing date ['May 25, 2021', 'Jun 07, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\1ce2a704-cae4-4338-a252-124f3a5bbc83_vendor_4435862729633959_20210520_20210609\US_SP Targeting_23.csv and missing date ['May 22, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\1ce2a704-cae4-4338-a252-124f3a5bbc83_vendor_4435862729633959_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\1ce2a704-cae4-4338-a252-124f3a5bbc83_vendor_4435862729633959_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\1ce2a704-cae4-4338-a252-124f3a5bbc83_vendor_4435862729633959_20210520_20210609\US_Sponsored Display_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\1df3a6bc-5feb-4fb5-a132-3f3325133c86_vendor_2931537108858741_20210520_20210609\US_SB Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\1df3a6bc-5feb-4fb5-a132-3f3325133c86_vendor_2931537108858741_20210520_20210609\US_SB Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\1df3a6bc-5feb-4fb5-a132-3f3325133c86_vendor_2931537108858741_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\1df3a6bc-5feb-4fb5-a132-3f3325133c86_vendor_2931537108858741_20210520_20210609\US_SP Advertised product_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\1df3a6bc-5feb-4fb5-a132-3f3325133c86_vendor_2931537108858741_20210520_20210609\US_SP Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\1df3a6bc-5feb-4fb5-a132-3f3325133c86_vendor_2931537108858741_20210520_20210609\US_SP Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\1df3a6bc-5feb-4fb5-a132-3f3325133c86_vendor_2931537108858741_20210520_20210609\US_SP Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\1df3a6bc-5feb-4fb5-a132-3f3325133c86_vendor_2931537108858741_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\1df3a6bc-5feb-4fb5-a132-3f3325133c86_vendor_2931537108858741_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\1df3a6bc-5feb-4fb5-a132-3f3325133c86_vendor_2931537108858741_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\1df3a6bc-5feb-4fb5-a132-3f3325133c86_vendor_2931537108858741_20210520_20210609\US_Sponsored Display_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\256be4d5-aa4c-4b06-9fe6-d6d6fd5092c6_seller_2793139427359749_20210520_20210609\US_SP Campaign_23.csv and missing date ['Jun 08, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\256be4d5-aa4c-4b06-9fe6-d6d6fd5092c6_seller_2793139427359749_20210520_20210609\US_Sponsored Display Audiences_23.csv and missing date ['May 26, 2021', 'May 27, 2021', 'May 28, 2021', 'May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 01, 2021', 'Jun 02, 2021', 'Jun 03, 2021', 'Jun 04, 2021', 'Jun 05, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\256be4d5-aa4c-4b06-9fe6-d6d6fd5092c6_seller_2793139427359749_20210520_20210609\US_Sponsored Display Targeting_23.csv and missing date ['May 20, 2021', 'May 26, 2021', 'May 29, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\256be4d5-aa4c-4b06-9fe6-d6d6fd5092c6_seller_2793139427359749_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_seller_3328333973905987_20210520_20210609\US_SB Campaign_23.csv and missing date ['Jun 02, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_seller_3328333973905987_20210520_20210609\US_SB Video Keyword_23.csv and missing date ['May 20, 2021', 'May 21, 2021', 'May 22, 2021', 'May 23, 2021', 'May 24, 2021', 'May 25, 2021', 'May 26, 2021', 'May 27, 2021', 'May 28, 2021', 'May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 01, 2021', 'Jun 02, 2021', 'Jun 03, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_seller_3328333973905987_20210520_20210609\US_SP Advertised product_23.csv and missing date ['May 20, 2021', 'May 21, 2021', 'May 22, 2021', 'May 23, 2021', 'May 25, 2021', 'May 26, 2021', 'May 27, 2021', 'May 28, 2021', 'May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 01, 2021', 'Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021', 'Jun 08, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_seller_3328333973905987_20210520_20210609\US_SP Campaign_23.csv and missing date ['May 20, 2021', 'May 21, 2021', 'May 22, 2021', 'May 23, 2021', 'May 25, 2021', 'May 26, 2021', 'May 27, 2021', 'May 28, 2021', 'May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 01, 2021', 'Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021', 'Jun 08, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_seller_3328333973905987_20210520_20210609\US_SP Keyword_23.csv and missing date ['May 20, 2021', 'May 21, 2021', 'May 22, 2021', 'May 23, 2021', 'May 25, 2021', 'May 26, 2021', 'May 27, 2021', 'May 28, 2021', 'May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 01, 2021', 'Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021', 'Jun 08, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_seller_3328333973905987_20210520_20210609\US_SP Targeting_23.csv and missing date ['May 20, 2021', 'May 21, 2021', 'May 22, 2021', 'May 23, 2021', 'May 24, 2021', 'May 25, 2021', 'May 26, 2021', 'May 27, 2021', 'May 28, 2021', 'May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 01, 2021', 'Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021', 'Jun 08, 2021', 'Jun 09, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_seller_3328333973905987_20210520_20210609\US_Sponsored Display Audiences_23.csv and missing date ['May 20, 2021', 'May 21, 2021', 'May 22, 2021', 'May 23, 2021', 'May 24, 2021', 'May 25, 2021', 'May 26, 2021', 'May 27, 2021', 'May 28, 2021', 'May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 01, 2021', 'Jun 04, 2021', 'Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021', 'Jun 08, 2021', 'Jun 09, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_seller_3328333973905987_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_seller_3328333973905987_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_vendor_1581394859817717_20210520_20210609\US_SB Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_vendor_1581394859817717_20210520_20210609\US_SB Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_vendor_1581394859817717_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_vendor_1581394859817717_20210520_20210609\US_SP Advertised product_23.csv and missing date ['May 22, 2021', 'May 23, 2021', 'May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 02, 2021', 'Jun 03, 2021', 'Jun 04, 2021', 'Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021', 'Jun 08, 2021', 'Jun 09, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_vendor_1581394859817717_20210520_20210609\US_SP Campaign_23.csv and missing date ['May 22, 2021', 'May 23, 2021', 'May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 02, 2021', 'Jun 03, 2021', 'Jun 04, 2021', 'Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021', 'Jun 08, 2021', 'Jun 09, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_vendor_1581394859817717_20210520_20210609\US_SP Keyword_23.csv and missing date ['May 22, 2021', 'May 23, 2021', 'May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 02, 2021', 'Jun 03, 2021', 'Jun 04, 2021', 'Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021', 'Jun 08, 2021', 'Jun 09, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_vendor_1581394859817717_20210520_20210609\US_SP Targeting_23.csv and missing date ['May 22, 2021', 'May 23, 2021', 'May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 02, 2021', 'Jun 03, 2021', 'Jun 04, 2021', 'Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021', 'Jun 08, 2021', 'Jun 09, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_vendor_1581394859817717_20210520_20210609\US_Sponsored Display Audiences_23.csv and missing date ['May 22, 2021', 'May 23, 2021', 'May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 02, 2021', 'Jun 03, 2021', 'Jun 04, 2021', 'Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021', 'Jun 08, 2021', 'Jun 09, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_vendor_1581394859817717_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_vendor_1581394859817717_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\316883d4-144a-4bcf-acee-a25ac775cc4c_vendor_1581394859817717_20210520_20210609\US_Sponsored Display_23.csv and missing date ['May 27, 2021', 'May 28, 2021', 'May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 01, 2021', 'Jun 02, 2021', 'Jun 03, 2021', 'Jun 04, 2021', 'Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021', 'Jun 08, 2021', 'Jun 09, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\36fac91f-3693-47ff-bdf8-a7ffc403ac65_seller_2901278305939576_20210520_20210609\US_SB Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\36fac91f-3693-47ff-bdf8-a7ffc403ac65_seller_2901278305939576_20210520_20210609\US_SB Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\36fac91f-3693-47ff-bdf8-a7ffc403ac65_seller_2901278305939576_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\36fac91f-3693-47ff-bdf8-a7ffc403ac65_seller_2901278305939576_20210520_20210609\US_SP Campaign_23.csv and missing date ['May 25, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\36fac91f-3693-47ff-bdf8-a7ffc403ac65_seller_2901278305939576_20210520_20210609\US_SP Targeting_23.csv and missing date ['May 25, 2021', 'Jun 03, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\36fac91f-3693-47ff-bdf8-a7ffc403ac65_seller_2901278305939576_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\36fac91f-3693-47ff-bdf8-a7ffc403ac65_seller_2901278305939576_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\36fac91f-3693-47ff-bdf8-a7ffc403ac65_seller_2901278305939576_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\36fac91f-3693-47ff-bdf8-a7ffc403ac65_vendor_4047948358246266_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\36fac91f-3693-47ff-bdf8-a7ffc403ac65_vendor_4047948358246266_20210520_20210609\US_SP Advertised product_23.csv and missing date ['Jun 09, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\36fac91f-3693-47ff-bdf8-a7ffc403ac65_vendor_4047948358246266_20210520_20210609\US_SP Campaign_23.csv and missing date ['May 25, 2021', 'Jun 09, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\36fac91f-3693-47ff-bdf8-a7ffc403ac65_vendor_4047948358246266_20210520_20210609\US_SP Targeting_23.csv and missing date ['Jun 02, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\36fac91f-3693-47ff-bdf8-a7ffc403ac65_vendor_4047948358246266_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\36fac91f-3693-47ff-bdf8-a7ffc403ac65_vendor_4047948358246266_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\36fac91f-3693-47ff-bdf8-a7ffc403ac65_vendor_4047948358246266_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\3768078a-6785-4bb2-99c6-f76c49fc3e4c_seller_3881045371528553_20210520_20210609\US_SB Campaign_23.csv and missing date ['May 20, 2021', 'May 21, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\3768078a-6785-4bb2-99c6-f76c49fc3e4c_seller_3881045371528553_20210520_20210609\US_SB Keyword_23.csv and missing date ['May 20, 2021', 'May 21, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\3768078a-6785-4bb2-99c6-f76c49fc3e4c_seller_3881045371528553_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\3768078a-6785-4bb2-99c6-f76c49fc3e4c_seller_3881045371528553_20210520_20210609\US_SP Campaign_23.csv and missing date ['May 27, 2021', 'Jun 07, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\3768078a-6785-4bb2-99c6-f76c49fc3e4c_seller_3881045371528553_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\42671476-41c4-4790-ba4e-6a7294c83cc3_seller_2274843577346049_20210520_20210609\US_SB Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\42671476-41c4-4790-ba4e-6a7294c83cc3_seller_2274843577346049_20210520_20210609\US_SB Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\42671476-41c4-4790-ba4e-6a7294c83cc3_seller_2274843577346049_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\42671476-41c4-4790-ba4e-6a7294c83cc3_seller_2274843577346049_20210520_20210609\US_SP Advertised product_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\42671476-41c4-4790-ba4e-6a7294c83cc3_seller_2274843577346049_20210520_20210609\US_SP Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\42671476-41c4-4790-ba4e-6a7294c83cc3_seller_2274843577346049_20210520_20210609\US_SP Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\42671476-41c4-4790-ba4e-6a7294c83cc3_seller_2274843577346049_20210520_20210609\US_SP Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\42671476-41c4-4790-ba4e-6a7294c83cc3_seller_2274843577346049_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\42671476-41c4-4790-ba4e-6a7294c83cc3_seller_2274843577346049_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\42671476-41c4-4790-ba4e-6a7294c83cc3_seller_2274843577346049_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\4ac29fcd-cf1e-4136-b740-a2aed9de2bce_seller_2294771592740404_20210520_20210609\US_SB Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\4ac29fcd-cf1e-4136-b740-a2aed9de2bce_seller_2294771592740404_20210520_20210609\US_SB Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\4ac29fcd-cf1e-4136-b740-a2aed9de2bce_seller_2294771592740404_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\4ac29fcd-cf1e-4136-b740-a2aed9de2bce_seller_2294771592740404_20210520_20210609\US_SP Advertised product_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\4ac29fcd-cf1e-4136-b740-a2aed9de2bce_seller_2294771592740404_20210520_20210609\US_SP Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\4ac29fcd-cf1e-4136-b740-a2aed9de2bce_seller_2294771592740404_20210520_20210609\US_SP Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\4ac29fcd-cf1e-4136-b740-a2aed9de2bce_seller_2294771592740404_20210520_20210609\US_SP Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\4ac29fcd-cf1e-4136-b740-a2aed9de2bce_seller_2294771592740404_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\4ac29fcd-cf1e-4136-b740-a2aed9de2bce_seller_2294771592740404_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\4ac29fcd-cf1e-4136-b740-a2aed9de2bce_seller_2294771592740404_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\4ac29fcd-cf1e-4136-b740-a2aed9de2bce_vendor_4117679986056620_20210520_20210609\US_SP Campaign_23.csv and missing date ['May 22, 2021', 'May 29, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\4ac29fcd-cf1e-4136-b740-a2aed9de2bce_vendor_4117679986056620_20210520_20210609\US_SP Targeting_23.csv and missing date ['Jun 07, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\4ac29fcd-cf1e-4136-b740-a2aed9de2bce_vendor_4117679986056620_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\4ac29fcd-cf1e-4136-b740-a2aed9de2bce_vendor_4117679986056620_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\50fe3fd3-5791-43ee-a422-de6458711f81_seller_2037794043164293_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\50fe3fd3-5791-43ee-a422-de6458711f81_seller_2037794043164293_20210520_20210609\US_SP Campaign_23.csv and missing date ['Jun 05, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\50fe3fd3-5791-43ee-a422-de6458711f81_seller_2037794043164293_20210520_20210609\US_Sponsored Display Targeting_23.csv and missing date ['May 23, 2021', 'May 26, 2021', 'May 27, 2021', 'May 28, 2021', 'May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 01, 2021', 'Jun 02, 2021', 'Jun 03, 2021', 'Jun 04, 2021', 'Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021', 'Jun 08, 2021', 'Jun 09, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\50fe3fd3-5791-43ee-a422-de6458711f81_seller_2037794043164293_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\58735dbd-80b3-4c93-b510-38a452e56673_seller_875899805382354_20210520_20210609\US_SB Video Keyword_23.csv and missing date ['Jun 03, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\58735dbd-80b3-4c93-b510-38a452e56673_seller_875899805382354_20210520_20210609\US_SP Advertised product_23.csv and missing date ['May 25, 2021', 'Jun 03, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\58735dbd-80b3-4c93-b510-38a452e56673_seller_875899805382354_20210520_20210609\US_SP Campaign_23.csv and missing date ['May 25, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\58735dbd-80b3-4c93-b510-38a452e56673_seller_875899805382354_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\58c20232-d767-4d47-98fa-5a658f4ff176_seller_391190042534556_20210520_20210609\US_SP Advertised product_23.csv and missing date ['Jun 06, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\58c20232-d767-4d47-98fa-5a658f4ff176_seller_391190042534556_20210520_20210609\US_SP Targeting_23.csv and missing date ['May 27, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\58c20232-d767-4d47-98fa-5a658f4ff176_seller_391190042534556_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\59548227-315a-4ee4-ae0f-ddd7453e9c95_vendor_3467215995519110_20210520_20210609\US_SB Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\59548227-315a-4ee4-ae0f-ddd7453e9c95_vendor_3467215995519110_20210520_20210609\US_SB Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\59548227-315a-4ee4-ae0f-ddd7453e9c95_vendor_3467215995519110_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\59548227-315a-4ee4-ae0f-ddd7453e9c95_vendor_3467215995519110_20210520_20210609\US_SP Advertised product_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\59548227-315a-4ee4-ae0f-ddd7453e9c95_vendor_3467215995519110_20210520_20210609\US_SP Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\59548227-315a-4ee4-ae0f-ddd7453e9c95_vendor_3467215995519110_20210520_20210609\US_SP Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\59548227-315a-4ee4-ae0f-ddd7453e9c95_vendor_3467215995519110_20210520_20210609\US_SP Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\59548227-315a-4ee4-ae0f-ddd7453e9c95_vendor_3467215995519110_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\59548227-315a-4ee4-ae0f-ddd7453e9c95_vendor_3467215995519110_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\59548227-315a-4ee4-ae0f-ddd7453e9c95_vendor_3467215995519110_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\63698119-5054-4fe6-9a54-ff2d50a32976_seller_1010954754632702_20210520_20210609\US_SP Campaign_23.csv and missing date ['May 28, 2021', 'Jun 05, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\63698119-5054-4fe6-9a54-ff2d50a32976_seller_1010954754632702_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\73f3881c-3c7f-4bf9-a36b-18edcb4e7c55_seller_1455822740795026_20210520_20210609\US_SB Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\73f3881c-3c7f-4bf9-a36b-18edcb4e7c55_seller_1455822740795026_20210520_20210609\US_SB Keyword_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\73f3881c-3c7f-4bf9-a36b-18edcb4e7c55_seller_1455822740795026_20210520_20210609\US_SB Video Keyword_23.csv and missing date ['May 20, 2021', 'May 21, 2021', 'May 22, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\73f3881c-3c7f-4bf9-a36b-18edcb4e7c55_seller_1455822740795026_20210520_20210609\US_SP Campaign_23.csv and missing date ['May 25, 2021', 'Jun 02, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\73f3881c-3c7f-4bf9-a36b-18edcb4e7c55_seller_1455822740795026_20210520_20210609\US_SP Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\73f3881c-3c7f-4bf9-a36b-18edcb4e7c55_seller_1455822740795026_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\73f3881c-3c7f-4bf9-a36b-18edcb4e7c55_seller_1455822740795026_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\73f3881c-3c7f-4bf9-a36b-18edcb4e7c55_seller_1455822740795026_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\78683227-b55f-4a85-98bf-c4bfbe1c27a4_seller_4195757085147383_20210520_20210609\US_SB Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\78683227-b55f-4a85-98bf-c4bfbe1c27a4_seller_4195757085147383_20210520_20210609\US_SB Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\78683227-b55f-4a85-98bf-c4bfbe1c27a4_seller_4195757085147383_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\78683227-b55f-4a85-98bf-c4bfbe1c27a4_seller_4195757085147383_20210520_20210609\US_SP Advertised product_23.csv and missing date ['May 26, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\78683227-b55f-4a85-98bf-c4bfbe1c27a4_seller_4195757085147383_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\78683227-b55f-4a85-98bf-c4bfbe1c27a4_seller_4195757085147383_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\7a18168c-293a-4949-8a4d-11291adff91b_seller_1404456753313335_20210520_20210609\US_SP Advertised product_23.csv and missing date ['Jun 01, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\7a18168c-293a-4949-8a4d-11291adff91b_seller_1404456753313335_20210520_20210609\US_SP Campaign_23.csv and missing date ['Jun 01, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\7a18168c-293a-4949-8a4d-11291adff91b_seller_1404456753313335_20210520_20210609\US_Sponsored Display Audiences_23.csv and missing date ['Jun 08, 2021', 'Jun 09, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\7a18168c-293a-4949-8a4d-11291adff91b_seller_1404456753313335_20210520_20210609\US_Sponsored Display Targeting_23.csv and missing date ['Jun 08, 2021', 'Jun 09, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\7a18168c-293a-4949-8a4d-11291adff91b_seller_1404456753313335_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\8a70e242-c67b-414c-866f-6d240cdf8816_seller_3716371847542933_20210520_20210609\UK_SP Advertised product_23.csv and missing date ['May 27, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\8a70e242-c67b-414c-866f-6d240cdf8816_seller_3716371847542933_20210520_20210609\UK_SP Campaign_23.csv and missing date ['Jun 03, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\8a70e242-c67b-414c-866f-6d240cdf8816_seller_3716371847542933_20210520_20210609\UK_Sponsored Display Targeting_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\8a70e242-c67b-414c-866f-6d240cdf8816_seller_404754761849749_20210520_20210609\CA_SB Video Keyword_23.csv and missing date ['May 20, 2021', 'May 21, 2021', 'May 22, 2021', 'May 23, 2021', 'May 24, 2021', 'May 25, 2021', 'May 26, 2021', 'May 27, 2021', 'May 28, 2021', 'May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 01, 2021', 'Jun 02, 2021', 'Jun 03, 2021', 'Jun 04, 2021', 'Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021', 'Jun 08, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\8a70e242-c67b-414c-866f-6d240cdf8816_seller_404754761849749_20210520_20210609\CA_SP Campaign_23.csv and missing date ['Jun 08, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\8a70e242-c67b-414c-866f-6d240cdf8816_seller_404754761849749_20210520_20210609\CA_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a0da96d7-2977-4cc8-a8fc-d786f5717fa4_seller_1037345388501780_20210520_20210609\US_SB Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a0da96d7-2977-4cc8-a8fc-d786f5717fa4_seller_1037345388501780_20210520_20210609\US_SB Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a0da96d7-2977-4cc8-a8fc-d786f5717fa4_seller_1037345388501780_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a0da96d7-2977-4cc8-a8fc-d786f5717fa4_seller_1037345388501780_20210520_20210609\US_SP Advertised product_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a0da96d7-2977-4cc8-a8fc-d786f5717fa4_seller_1037345388501780_20210520_20210609\US_SP Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a0da96d7-2977-4cc8-a8fc-d786f5717fa4_seller_1037345388501780_20210520_20210609\US_SP Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a0da96d7-2977-4cc8-a8fc-d786f5717fa4_seller_1037345388501780_20210520_20210609\US_SP Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a0da96d7-2977-4cc8-a8fc-d786f5717fa4_seller_1037345388501780_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a0da96d7-2977-4cc8-a8fc-d786f5717fa4_seller_1037345388501780_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a0da96d7-2977-4cc8-a8fc-d786f5717fa4_seller_1037345388501780_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a37a5272-4d80-4a7a-9420-3e8bd2bad9ea_vendor_2181850993786974_20210520_20210609\US_SB Campaign_23.csv and missing date ['Jun 04, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a37a5272-4d80-4a7a-9420-3e8bd2bad9ea_vendor_2181850993786974_20210520_20210609\US_SB Video Keyword_23.csv and missing date ['May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 01, 2021', 'Jun 02, 2021', 'Jun 03, 2021', 'Jun 04, 2021', 'Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021', 'Jun 08, 2021', 'Jun 09, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a37a5272-4d80-4a7a-9420-3e8bd2bad9ea_vendor_2181850993786974_20210520_20210609\US_SP Keyword_23.csv and missing date ['May 24, 2021', 'May 30, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a37a5272-4d80-4a7a-9420-3e8bd2bad9ea_vendor_2181850993786974_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a37a5272-4d80-4a7a-9420-3e8bd2bad9ea_vendor_2181850993786974_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a37a5272-4d80-4a7a-9420-3e8bd2bad9ea_vendor_2181850993786974_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a37a5272-4d80-4a7a-9420-3e8bd2bad9ea_vendor_2181850993786974_20210520_20210609\US_Sponsored Display_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a63599c6-afbf-4aac-9067-c13574e76f40_seller_1451143348446216_20210520_20210609\US_SP Campaign_23.csv and missing date ['May 25, 2021', 'Jun 03, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a63599c6-afbf-4aac-9067-c13574e76f40_seller_1451143348446216_20210520_20210609\US_Sponsored Display Audiences_23.csv and missing date ['May 28, 2021', 'May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 01, 2021', 'Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021', 'Jun 08, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a63599c6-afbf-4aac-9067-c13574e76f40_seller_1451143348446216_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a63599c6-afbf-4aac-9067-c13574e76f40_vendor_1276522558157947_20210520_20210609\US_SB Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a63599c6-afbf-4aac-9067-c13574e76f40_vendor_1276522558157947_20210520_20210609\US_SB Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a63599c6-afbf-4aac-9067-c13574e76f40_vendor_1276522558157947_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a63599c6-afbf-4aac-9067-c13574e76f40_vendor_1276522558157947_20210520_20210609\US_SP Advertised product_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a63599c6-afbf-4aac-9067-c13574e76f40_vendor_1276522558157947_20210520_20210609\US_SP Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a63599c6-afbf-4aac-9067-c13574e76f40_vendor_1276522558157947_20210520_20210609\US_SP Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a63599c6-afbf-4aac-9067-c13574e76f40_vendor_1276522558157947_20210520_20210609\US_SP Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a63599c6-afbf-4aac-9067-c13574e76f40_vendor_1276522558157947_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a63599c6-afbf-4aac-9067-c13574e76f40_vendor_1276522558157947_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a63599c6-afbf-4aac-9067-c13574e76f40_vendor_1276522558157947_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\a63599c6-afbf-4aac-9067-c13574e76f40_vendor_1276522558157947_20210520_20210609\US_Sponsored Display_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b2f71eee-a927-4673-a539-2c1c99f92692_seller_1249920957549722_20210520_20210609\US_SB Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b2f71eee-a927-4673-a539-2c1c99f92692_seller_1249920957549722_20210520_20210609\US_SB Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b2f71eee-a927-4673-a539-2c1c99f92692_seller_1249920957549722_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b2f71eee-a927-4673-a539-2c1c99f92692_seller_1249920957549722_20210520_20210609\US_SP Campaign_23.csv and missing date ['May 28, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b2f71eee-a927-4673-a539-2c1c99f92692_seller_1249920957549722_20210520_20210609\US_SP Keyword_23.csv and missing date ['May 20, 2021', 'May 21, 2021', 'May 22, 2021', 'May 23, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b2f71eee-a927-4673-a539-2c1c99f92692_seller_1249920957549722_20210520_20210609\US_SP Targeting_23.csv and missing date ['Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021', 'Jun 08, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b2f71eee-a927-4673-a539-2c1c99f92692_seller_1249920957549722_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b2f71eee-a927-4673-a539-2c1c99f92692_seller_1249920957549722_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b2f71eee-a927-4673-a539-2c1c99f92692_seller_1249920957549722_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b2f71eee-a927-4673-a539-2c1c99f92692_vendor_457013256156963_20210520_20210609\US_SB Campaign_23.csv and missing date ['May 20, 2021', 'May 21, 2021', 'May 22, 2021', 'May 23, 2021', 'May 24, 2021', 'May 25, 2021', 'May 26, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b2f71eee-a927-4673-a539-2c1c99f92692_vendor_457013256156963_20210520_20210609\US_SB Keyword_23.csv and missing date ['May 20, 2021', 'May 21, 2021', 'May 22, 2021', 'May 23, 2021', 'May 24, 2021', 'May 25, 2021', 'May 26, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b2f71eee-a927-4673-a539-2c1c99f92692_vendor_457013256156963_20210520_20210609\US_SP Advertised product_23.csv and missing date ['Jun 09, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b2f71eee-a927-4673-a539-2c1c99f92692_vendor_457013256156963_20210520_20210609\US_SP Campaign_23.csv and missing date ['Jun 02, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b2f71eee-a927-4673-a539-2c1c99f92692_vendor_457013256156963_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b2f71eee-a927-4673-a539-2c1c99f92692_vendor_457013256156963_20210520_20210609\US_Sponsored Display Targeting_23.csv and missing date ['May 20, 2021', 'May 21, 2021', 'May 22, 2021', 'May 23, 2021', 'May 24, 2021', 'May 25, 2021', 'May 26, 2021', 'May 27, 2021', 'May 28, 2021', 'May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 01, 2021', 'Jun 02, 2021', 'Jun 03, 2021', 'Jun 04, 2021', 'Jun 05, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b2f71eee-a927-4673-a539-2c1c99f92692_vendor_457013256156963_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b2f71eee-a927-4673-a539-2c1c99f92692_vendor_457013256156963_20210520_20210609\US_Sponsored Display_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b3f17b24-718e-4b6c-ab1b-d4452e7f8f21_seller_4002713565128878_20210520_20210609\US_SB Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b3f17b24-718e-4b6c-ab1b-d4452e7f8f21_seller_4002713565128878_20210520_20210609\US_SB Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b3f17b24-718e-4b6c-ab1b-d4452e7f8f21_seller_4002713565128878_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b3f17b24-718e-4b6c-ab1b-d4452e7f8f21_seller_4002713565128878_20210520_20210609\US_SP Advertised product_23.csv and missing date ['May 27, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b3f17b24-718e-4b6c-ab1b-d4452e7f8f21_seller_4002713565128878_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b3f17b24-718e-4b6c-ab1b-d4452e7f8f21_seller_4002713565128878_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b3f17b24-718e-4b6c-ab1b-d4452e7f8f21_seller_4002713565128878_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b3f17b24-718e-4b6c-ab1b-d4452e7f8f21_vendor_765800225086220_20210520_20210609\US_SB Campaign_23.csv and missing date ['May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 02, 2021', 'Jun 03, 2021', 'Jun 04, 2021', 'Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021', 'Jun 08, 2021', 'Jun 09, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b3f17b24-718e-4b6c-ab1b-d4452e7f8f21_vendor_765800225086220_20210520_20210609\US_SB Keyword_23.csv and missing date ['May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 02, 2021', 'Jun 03, 2021', 'Jun 04, 2021', 'Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021', 'Jun 08, 2021', 'Jun 09, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b3f17b24-718e-4b6c-ab1b-d4452e7f8f21_vendor_765800225086220_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b3f17b24-718e-4b6c-ab1b-d4452e7f8f21_vendor_765800225086220_20210520_20210609\US_SP Campaign_23.csv and missing date ['May 25, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b3f17b24-718e-4b6c-ab1b-d4452e7f8f21_vendor_765800225086220_20210520_20210609\US_SP Targeting_23.csv and missing date ['Jun 05, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b3f17b24-718e-4b6c-ab1b-d4452e7f8f21_vendor_765800225086220_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b3f17b24-718e-4b6c-ab1b-d4452e7f8f21_vendor_765800225086220_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\b3f17b24-718e-4b6c-ab1b-d4452e7f8f21_vendor_765800225086220_20210520_20210609\US_Sponsored Display_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\bc635e18-c118-40be-9374-1decb774bbcc_vendor_1797674390169336_20210520_20210609\US_SP Campaign_23.csv and missing date ['May 21, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\bc635e18-c118-40be-9374-1decb774bbcc_vendor_1797674390169336_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\bc635e18-c118-40be-9374-1decb774bbcc_vendor_1797674390169336_20210520_20210609\US_Sponsored Display_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d250ca09-3fe2-42ac-b50a-04da823c6710_vendor_3154645185540111_20210520_20210609\US_SB Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d250ca09-3fe2-42ac-b50a-04da823c6710_vendor_3154645185540111_20210520_20210609\US_SB Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d250ca09-3fe2-42ac-b50a-04da823c6710_vendor_3154645185540111_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d250ca09-3fe2-42ac-b50a-04da823c6710_vendor_3154645185540111_20210520_20210609\US_SP Advertised product_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d250ca09-3fe2-42ac-b50a-04da823c6710_vendor_3154645185540111_20210520_20210609\US_SP Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d250ca09-3fe2-42ac-b50a-04da823c6710_vendor_3154645185540111_20210520_20210609\US_SP Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d250ca09-3fe2-42ac-b50a-04da823c6710_vendor_3154645185540111_20210520_20210609\US_SP Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d250ca09-3fe2-42ac-b50a-04da823c6710_vendor_3154645185540111_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d250ca09-3fe2-42ac-b50a-04da823c6710_vendor_3154645185540111_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d250ca09-3fe2-42ac-b50a-04da823c6710_vendor_3154645185540111_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d58da9a0-b409-4818-8bff-50ad5964be95_seller_1565438476483132_20210520_20210609\US_SB Keyword_23.csv and missing date ['May 26, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d58da9a0-b409-4818-8bff-50ad5964be95_seller_1565438476483132_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d58da9a0-b409-4818-8bff-50ad5964be95_vendor_4114836675625388_20210520_20210609\US_SB Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d58da9a0-b409-4818-8bff-50ad5964be95_vendor_4114836675625388_20210520_20210609\US_SB Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d58da9a0-b409-4818-8bff-50ad5964be95_vendor_4114836675625388_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d58da9a0-b409-4818-8bff-50ad5964be95_vendor_4114836675625388_20210520_20210609\US_SP Advertised product_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d58da9a0-b409-4818-8bff-50ad5964be95_vendor_4114836675625388_20210520_20210609\US_SP Campaign_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d58da9a0-b409-4818-8bff-50ad5964be95_vendor_4114836675625388_20210520_20210609\US_SP Keyword_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d58da9a0-b409-4818-8bff-50ad5964be95_vendor_4114836675625388_20210520_20210609\US_SP Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d58da9a0-b409-4818-8bff-50ad5964be95_vendor_4114836675625388_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d58da9a0-b409-4818-8bff-50ad5964be95_vendor_4114836675625388_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d58da9a0-b409-4818-8bff-50ad5964be95_vendor_4114836675625388_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d58da9a0-b409-4818-8bff-50ad5964be95_vendor_4114836675625388_20210520_20210609\US_Sponsored Display_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d6f74519-f8c3-4868-94b1-0bc6e034cc0f_seller_933927043184738_20210520_20210609\US_SB Campaign_23.csv and missing date ['May 30, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d6f74519-f8c3-4868-94b1-0bc6e034cc0f_seller_933927043184738_20210520_20210609\US_SB Keyword_23.csv and missing date ['May 24, 2021', 'May 30, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d6f74519-f8c3-4868-94b1-0bc6e034cc0f_seller_933927043184738_20210520_20210609\US_SP Advertised product_23.csv and missing date ['Jun 05, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\d6f74519-f8c3-4868-94b1-0bc6e034cc0f_seller_933927043184738_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\dea56f4f-9cf1-43e2-90a7-2019e5726f2a_seller_1247110364715721_20210520_20210609\US_SB Video Keyword_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\dea56f4f-9cf1-43e2-90a7-2019e5726f2a_seller_1247110364715721_20210520_20210609\US_SP Keyword_23.csv and missing date ['Jun 01, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\dea56f4f-9cf1-43e2-90a7-2019e5726f2a_seller_1247110364715721_20210520_20210609\US_SP Targeting_23.csv and missing date ['May 27, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\dea56f4f-9cf1-43e2-90a7-2019e5726f2a_seller_1247110364715721_20210520_20210609\US_Sponsored Display Audiences_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\dea56f4f-9cf1-43e2-90a7-2019e5726f2a_seller_1247110364715721_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\dea56f4f-9cf1-43e2-90a7-2019e5726f2a_seller_1247110364715721_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\e17b5241-8d53-488f-9a92-4d79bf836c35_vendor_958840583400205_20210520_20210609\US_SB Video Keyword_23.csv and missing date ['May 20, 2021', 'May 21, 2021', 'May 22, 2021', 'May 23, 2021', 'May 24, 2021', 'May 25, 2021', 'May 26, 2021', 'May 27, 2021', 'May 28, 2021', 'May 29, 2021', 'May 30, 2021', 'May 31, 2021', 'Jun 01, 2021', 'Jun 02, 2021', 'Jun 03, 2021', 'Jun 04, 2021', 'Jun 05, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\e17b5241-8d53-488f-9a92-4d79bf836c35_vendor_958840583400205_20210520_20210609\US_SP Advertised product_23.csv and missing date ['Jun 01, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\e17b5241-8d53-488f-9a92-4d79bf836c35_vendor_958840583400205_20210520_20210609\US_Sponsored Display Audiences_23.csv and missing date ['Jun 03, 2021', 'Jun 04, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\e17b5241-8d53-488f-9a92-4d79bf836c35_vendor_958840583400205_20210520_20210609\US_Sponsored Display Targeting_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\e17b5241-8d53-488f-9a92-4d79bf836c35_vendor_958840583400205_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\e17b5241-8d53-488f-9a92-4d79bf836c35_vendor_958840583400205_20210520_20210609\US_Sponsored Display_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\e62bce0c-47ed-47eb-b922-a4fa49550bbb_seller_2473588903485848_20210520_20210609\US_SB Campaign_23.csv and missing date ['Jun 03, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\e62bce0c-47ed-47eb-b922-a4fa49550bbb_seller_2473588903485848_20210520_20210609\US_Sponsored Display Audiences_23.csv and missing date ['May 20, 2021', 'May 21, 2021', 'May 22, 2021', 'May 23, 2021', 'May 24, 2021', 'May 25, 2021', 'May 26, 2021', 'Jun 03, 2021', 'Jun 04, 2021', 'Jun 05, 2021', 'Jun 06, 2021', 'Jun 07, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\e62bce0c-47ed-47eb-b922-a4fa49550bbb_seller_2473588903485848_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\f5297c8d-59d1-43be-8528-9f0e54bd84bf_vendor_880209326358987_20210520_20210609\US_SB Video Keyword_23.csv and missing date ['May 26, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\f5297c8d-59d1-43be-8528-9f0e54bd84bf_vendor_880209326358987_20210520_20210609\US_SP Keyword_23.csv and missing date ['Jun 04, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\f5297c8d-59d1-43be-8528-9f0e54bd84bf_vendor_880209326358987_20210520_20210609\US_Sponsored Display Audiences_23.csv and missing date ['May 24, 2021', 'May 25, 2021', 'May 26, 2021'] 
+
+
+*** date missing file C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\f5297c8d-59d1-43be-8528-9f0e54bd84bf_vendor_880209326358987_20210520_20210609\US_Sponsored Display Targeting_23.csv and missing date ['May 20, 2021', 'May 21, 2021', 'May 22, 2021', 'May 23, 2021', 'May 24, 2021', 'May 25, 2021'] 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\f5297c8d-59d1-43be-8528-9f0e54bd84bf_vendor_880209326358987_20210520_20210609\US_Sponsored Display Views_23.csv 
+
+
+** Csv file empty C:\Users\Admin\Documents\Reckonsys\D8adriven\automate AMS reports date checking\\input_reports\\ams_reports\f5297c8d-59d1-43be-8528-9f0e54bd84bf_vendor_880209326358987_20210520_20210609\US_Sponsored Display_23.csv 
+
+
+Folder wise csv file count {folder_name : csv file count}
+
+
+{'01600886-eb6d-4a99-a978-f51bc2e4a9c5_vendor_2530632897090310_20210520_20210609': 11, '0a69495b-350c-4e65-adbd-167358e1f2eb_vendor_976427812200541_20210520_20210609': 11, '0d0e7b29-85da-4785-9d1f-cf54b422be9c_seller_3492687976371255_20210520_20210609': 10, '108dcf9c-a588-4850-8759-36f0ce55a194_seller_2358720458325044_20210520_20210609': 7, '108dcf9c-a588-4850-8759-36f0ce55a194_seller_4136270002643862_20210520_20210609': 10, '108dcf9c-a588-4850-8759-36f0ce55a194_seller_435939217329598_20210520_20210609': 9, '1ce2a704-cae4-4338-a252-124f3a5bbc83_vendor_4435862729633959_20210520_20210609': 11, '1df3a6bc-5feb-4fb5-a132-3f3325133c86_vendor_2931537108858741_20210520_20210609': 11, '256be4d5-aa4c-4b06-9fe6-d6d6fd5092c6_seller_2793139427359749_20210520_20210609': 10, '316883d4-144a-4bcf-acee-a25ac775cc4c_seller_3328333973905987_20210520_20210609': 10, '316883d4-144a-4bcf-acee-a25ac775cc4c_vendor_1581394859817717_20210520_20210609': 11, '36fac91f-3693-47ff-bdf8-a7ffc403ac65_seller_2901278305939576_20210520_20210609': 10, '36fac91f-3693-47ff-bdf8-a7ffc403ac65_vendor_4047948358246266_20210520_20210609': 11, '3768078a-6785-4bb2-99c6-f76c49fc3e4c_seller_3881045371528553_20210520_20210609': 10, '42671476-41c4-4790-ba4e-6a7294c83cc3_seller_2274843577346049_20210520_20210609': 10, '4ac29fcd-cf1e-4136-b740-a2aed9de2bce_seller_2294771592740404_20210520_20210609': 10, '4ac29fcd-cf1e-4136-b740-a2aed9de2bce_vendor_4117679986056620_20210520_20210609': 11, '50fe3fd3-5791-43ee-a422-de6458711f81_seller_2037794043164293_20210520_20210609': 10, '58735dbd-80b3-4c93-b510-38a452e56673_seller_875899805382354_20210520_20210609': 10, '58c20232-d767-4d47-98fa-5a658f4ff176_seller_391190042534556_20210520_20210609': 10, '59548227-315a-4ee4-ae0f-ddd7453e9c95_vendor_3467215995519110_20210520_20210609': 10, '63698119-5054-4fe6-9a54-ff2d50a32976_seller_1010954754632702_20210520_20210609': 10, '73f3881c-3c7f-4bf9-a36b-18edcb4e7c55_seller_1455822740795026_20210520_20210609': 10, '78683227-b55f-4a85-98bf-c4bfbe1c27a4_seller_4195757085147383_20210520_20210609': 10, '7a18168c-293a-4949-8a4d-11291adff91b_seller_1404456753313335_20210520_20210609': 10, '8a70e242-c67b-414c-866f-6d240cdf8816_seller_3716371847542933_20210520_20210609': 9, '8a70e242-c67b-414c-866f-6d240cdf8816_seller_404754761849749_20210520_20210609': 9, 'a0da96d7-2977-4cc8-a8fc-d786f5717fa4_seller_1037345388501780_20210520_20210609': 10, 'a37a5272-4d80-4a7a-9420-3e8bd2bad9ea_vendor_2181850993786974_20210520_20210609': 11, 'a63599c6-afbf-4aac-9067-c13574e76f40_seller_1451143348446216_20210520_20210609': 10, 'a63599c6-afbf-4aac-9067-c13574e76f40_vendor_1276522558157947_20210520_20210609': 11, 'b2f71eee-a927-4673-a539-2c1c99f92692_seller_1249920957549722_20210520_20210609': 10, 'b2f71eee-a927-4673-a539-2c1c99f92692_vendor_457013256156963_20210520_20210609': 11, 'b3f17b24-718e-4b6c-ab1b-d4452e7f8f21_seller_4002713565128878_20210520_20210609': 10, 'b3f17b24-718e-4b6c-ab1b-d4452e7f8f21_vendor_765800225086220_20210520_20210609': 11, 'bc635e18-c118-40be-9374-1decb774bbcc_vendor_1797674390169336_20210520_20210609': 11, 'd250ca09-3fe2-42ac-b50a-04da823c6710_seller_736123992946882_20210520_20210609': 0, 'd250ca09-3fe2-42ac-b50a-04da823c6710_vendor_3154645185540111_20210520_20210609': 10, 'd58da9a0-b409-4818-8bff-50ad5964be95_seller_1565438476483132_20210520_20210609': 10, 'd58da9a0-b409-4818-8bff-50ad5964be95_vendor_4114836675625388_20210520_20210609': 11, 'd6f74519-f8c3-4868-94b1-0bc6e034cc0f_seller_933927043184738_20210520_20210609': 10, 'dea56f4f-9cf1-43e2-90a7-2019e5726f2a_seller_1247110364715721_20210520_20210609': 10, 'e17b5241-8d53-488f-9a92-4d79bf836c35_vendor_958840583400205_20210520_20210609': 11, 'e62bce0c-47ed-47eb-b922-a4fa49550bbb_seller_2473588903485848_20210520_20210609': 10, 'f5297c8d-59d1-43be-8528-9f0e54bd84bf_vendor_880209326358987_20210520_20210609': 11}
+
+
+Report: 
+{'total_csv_files count ': 449}
+{'csv_file_empty count  ': 190}
+{'csv_file_is_not_empty count ': 259}
+{'csv_file date_missing count ': 94}
+{'csv_file date_not_missing count ': 165}
