@@ -11,3 +11,8 @@ func : it is a function that must return the state of the animation for each fra
 interval: is the delay in milliseconds between the different frames of the animation.
 frames: the number of images on which to base the chart. This will depend on how many “states” the animation has. If we have an animation with data in 5 different states (let’s imagine, 5 years), the number of frames will be 5, while if we have data of 100 years, the number of frames will be 100.
 With these arguments, we can create all kinds of animations. Now, this can be somewhat complex (especially the update part), so I would always recommend first creating the graphic that we want and, from that, generating the animation.
+
+
+This FuncAnimation() Function does not create the Animation on its own, but it creates Animation from series of Graphics that we pass.
+
+Syntax: FuncAnimation(figure, animation_function, frames=None, init_func=None, fargs=None, save_count=None, *, cache_frame_data=True, **kwargs)
