@@ -1,4 +1,4 @@
-
+import oops_concept
 
 str_ = "My Name is Sakthi"
 
@@ -9,7 +9,7 @@ letter_list = list()
 for letter in range(len(str_)-1,-1,-1):
     #import pdb;pdb.set_trace()
     letter_list.append(str_[letter])
-print letter_list
+print (letter_list)
 
 print ("".join(letter_list))
 
