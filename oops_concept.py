@@ -13,50 +13,52 @@ class CSStudent:
 obj = CSStudent(101) 
 b = CSStudent(102) 
 
-print(obj.stream)  # prints "cse" 
-print(b.stream)  # prints "cse" 
-print(obj.roll)    # prints 101 
+# print(obj.stream)  # prints "cse" 
+# print(b.stream)  # prints "cse" 
+# print(obj.roll)    # prints 101 
    
 # Class variables can be accessed using class 
 # name also 
-print(CSStudent.stream) # prints "cse" 
+# print(CSStudent.stream) # prints "cse" 
 
 
 #Inheritance
 
 
-# parent class
-# class Bird(object):
+#parent class
+class Bird(object):
     
-#     def __init__(self):
-#         print("Bird is ready")
+    def __init__(self):
+        print("Bird is ready")
 
-#     def whoisThis(self):
-#         print("Bird")
+    def whoisThis(self):
+        print("Bird")
 
-#     def swim(self):
-#         print("Swim faster")
+    def swim(self):
+        print("Swim faster")
 
-# # child class
-# class Penguin(Bird):
+# child class
+class Penguin(Bird):
 
-#     def __init__(self):
-#         # call super() function
-#         super(Penguin, self).__init__()
-#         print("Penguin is ready")
-#         super(Penguin, self).whoisThis()
+    def __init__(self):
+        # call super() function
+        super(Penguin, self).__init__()
+        print("Penguin is ready")
+        super(Penguin, self).whoisThis()
 
-#     def whoisThis(self):
-#         print("Penguin")
+    def whoisThis(self):
+        self.swim()
+        print("Penguin")
+        
 
-#     def run(self):
-#         print("Run faster")
+    def run(self):
+        print("Run faster")
 
-# peggy = Penguin()
+peggy = Penguin()
 
-# peggy.whoisThis()
-# peggy.swim()
-# peggy.run()
+peggy.whoisThis()
+peggy.swim()
+peggy.run()
 
 #Encapsulation
 
@@ -84,30 +86,30 @@ print(CSStudent.stream) # prints "cse"
 
 #Polymorphism
 
-class Parrot:
+# class Parrot:
 
-    def fly(self):
-        print("Parrot can fly")
+#     def fly(self):
+#         print("Parrot can fly")
     
-    def swim(self):
-        print("Parrot can't swim")
+#     def swim(self):
+#         print("Parrot can't swim")
 
-class Penguin:
+# class Penguin:
 
-    def fly(self):
-        print("Penguin can't fly")
+#     def fly(self):
+#         print("Penguin can't fly")
     
-    def swim(self):
-        print("Penguin can swim")
+#     def swim(self):
+#         print("Penguin can swim")
 
-# common interface
-def flying_test(bird):
-    bird.fly()
+# # common interface
+# def flying_test(bird):
+#     bird.fly()
 
-#instantiate objects
-blu = Parrot()
-peggy = Penguin()
+# #instantiate objects
+# blu = Parrot()
+# peggy = Penguin()
 
-# passing the object
-flying_test(blu)
-flying_test(peggy)
+# # passing the object
+# flying_test(blu)
+# flying_test(peggy)
