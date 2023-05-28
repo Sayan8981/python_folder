@@ -10,7 +10,6 @@ class thread_test(object):
     def test(self, item_part):
         count = 0
         count += 1
-        #item[thread_no_start:thread_no_end]
         print (f'{item_part}')
         print (f'{count}')
         self.q.task_done()
