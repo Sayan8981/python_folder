@@ -13,7 +13,7 @@ def test(item_part):
     print (f'{count}')
     q.task_done()
     
-def func(q, thread_no_end, thread_no_start):
+def func(q, thread_no_start, thread_no_end):
     while not q.empty():
         task = q.get()
         if task is None:
@@ -24,13 +24,11 @@ def func(q, thread_no_end, thread_no_start):
         print(f'Thread #{thread_no_start,thread_no_end} is doing task in the queue.')
         test(item[thread_no_start:thread_no_end])
 
-        #return item[thread_no_start:thread_no_end]
-
 q = queue.Queue()
 gap  = 5
-for i in range(len(item),0,-gap):
+for i in range(0,len(item),gap):
     print (i)
-    worker = threading.Thread(target=func, args=(q,i,i-gap), daemon = True)
+    worker = threading.Thread(target=func, args=(q,i,i+gap), daemon = True)
     q.put(worker)
     worker.start()
     
