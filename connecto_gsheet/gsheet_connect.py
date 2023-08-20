@@ -1,4 +1,4 @@
-#ref_url : https://understandingdata.com/posts/the-comprehensive-guide-to-google-sheets-with-python/
+#ref_url : https://understandingdata.com/posts/the-comprehensive-guide-to-google-sheets-with-python/, https://pandas.pydata.org/docs/getting_started/intro_tutorials/08_combine_dataframes.html
 
 #import pandas as pd
 import json
