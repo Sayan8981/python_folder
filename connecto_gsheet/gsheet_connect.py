@@ -1,8 +1,8 @@
 #ref_url : https://understandingdata.com/posts/the-comprehensive-guide-to-google-sheets-with-python/
 
-import pandas as pd
+#import pandas as pd
 import json
-import csv
+#import csv
 from google.oauth2 import service_account
 import pygsheets
 
