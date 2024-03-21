@@ -1,3 +1,4 @@
+import pyspark
 from pyspark.sql import SparkSession
 
 spark = SparkSession.builder.appName('Practice').getOrCreate()
@@ -14,16 +15,30 @@ print(df_pyspark)
 # # Read CSV file into a DataFrame
 # df = spark.read.csv("data.csv", header=True, inferSchema=True)
 
-df_pyspark = spark.read.option('header', 'true').csv('test_pyspark.csv') 
+df_pyspark = spark.read.option('header', 'true').csv('test_pyspark.csv', inferSchema=True) 
 print(df_pyspark.show())
 print(df_pyspark)
 print(type(df_pyspark))
 
 #to print schema of dataframe
 print(df_pyspark.printSchema)
-print(df_pyspark.head(df_pyspark.count()))
+print(df_pyspark.head(df_pyspark.count()-15))
 
+########################################################################
+# getting the column names 
+print(df_pyspark.columns)
 
+#to show particular column 
+print(df_pyspark.select('Name').show())
 
-# Stop SparkSession
+#to select multiple columns 
+df_pyspark.select(['Name','Experience']).show()
+
+df_pyspark.describe().show()
+
+#to get dtypes
+print (df_pyspark.dtypes)
+
+ 
+#Stop SparkSession
 spark.stop()
