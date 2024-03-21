@@ -132,3 +132,7 @@ data = pd.DataFrame([[65, 158], [92, 183]],
                       index=['Ramesh', 'Suresh'],
                       columns=['weight', 'height'])
 print (data.stack())
+
+a = [4,2,4,2,1,6,7,78,3,2,8,0,10]
+a.sort()
+print (a)
