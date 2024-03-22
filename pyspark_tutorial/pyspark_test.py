@@ -63,12 +63,20 @@ filtered_df.show()
 
 data_sec = [("Krish", 31, 10, 30000), ("Sunny", 30, 4, None), ("Paul", 24, 3, 20000), ("harsha", 21, 1, 15000), ("Dev", 20, None ,29000), ("Hak", None, 2, None), (None, None, None, 12000), (None, None, None, None), (None, None, None, None)]
 
-df_pyspark_sec = spark.createDataFrame(data_sec, ["Name","Age", "Experience", "Salary"])
+df_pyspark_sec = spark.createDataFrame(data_sec, ["Name","Age","Experience","Salary"])
 
 df_pyspark_sec = df_pyspark_sec.na.drop(how='any', thresh=2)
 df_pyspark_sec.show()
 
+#inverse operation with ~
+df_pyspark_sec.filter(~(df_pyspark_sec["Salary"]<=20000)).show()
 
- 
+#filterout based on salary None value excluded and select particular column with & / |
+df_pyspark_sec = df_pyspark_sec.filter((df_pyspark_sec["Salary"]<=20000) &
+                                       (df_pyspark_sec["Age"]<30)).select(["Name", "Age"])
+df_pyspark_sec.show()
+
+
+
 #Stop SparkSession
 spark.stop()
