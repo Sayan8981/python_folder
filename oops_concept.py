@@ -1,17 +1,17 @@
-class CSStudent: 
+# class CSStudent: 
   
-    # Class Variable 
-    stream = 'cse'             
+#     # Class Variable 
+#     stream = 'cse'             
   
-    # The init method or parameterized constructor 
-    def __init__(self, roll): 
+#     # The init method or parameterized constructor 
+#     def __init__(self, roll): 
     
-        # Instance Variable     
-        self.roll = roll        
+#         # Instance Variable     
+#         self.roll = roll        
     
-# Objects of CSStudent class 
-obj = CSStudent(101) 
-b = CSStudent(102) 
+# # Objects of CSStudent class 
+# obj = CSStudent(101) 
+# b = CSStudent(102) 
 
 # print(obj.stream)  # prints "cse" 
 # print(b.stream)  # prints "cse" 
@@ -26,63 +26,63 @@ b = CSStudent(102)
 
 
 #parent class
-class Bird(object):
+# class Bird(object):
     
-    def __init__(self):
-        print("Bird is ready")
+#     def __init__(self):
+#         print("Bird is ready")
 
-    def whoisThis(self):
-        print("Bird")
+#     def whoisThis(self):
+#         print("Bird")
 
-    def swim(self):
-        print("Swim faster")
+#     def swim(self):
+#         print("Swim faster")
 
-# child class
-class Penguin(Bird):
+# # child class
+# class Penguin(Bird):
 
-    def __init__(self):
-        # call super() function
-        super(Penguin, self).__init__()
-        print("Penguin is ready")
-        super(Penguin, self).whoisThis()
+#     def __init__(self):
+#         # call super() function
+#         super(Penguin, self).__init__()
+#         print("Penguin is ready")
+#         super(Penguin, self).whoisThis()
 
-    def whoisThis(self):
-        self.swim()
-        print("Penguin")
+#     def whoisThis(self):
+#         self.swim()
+#         print("Penguin")
         
 
-    def run(self):
-        print("Run faster")
+#     def run(self):
+#         print("Run faster")
 
-peggy = Penguin()
+# peggy = Penguin()
 
-peggy.whoisThis()
-peggy.swim()
-peggy.run()
+# peggy.whoisThis()
+# peggy.swim()
+# peggy.run()
 
 #Encapsulation
 
-# class Computer:
+class Computer:
 
-#     def __init__(self):
-#         self.__maxprice = 900
+    def __init__(self):
+        self.__maxprice = 900
 
-#     def sell(self):
-#         print("Selling Price: {}".format(self.__maxprice))
+    def sell(self):
+        print("Selling Price: {}".format(self.__maxprice))
 
-#     def setMaxPrice(self, price):
-#         self.__maxprice = price
+    def setMaxPrice(self, price):
+        self.__maxprice = price
 
-# c = Computer()
-# c.sell()
+c = Computer()
+c.sell()
 
-# # change the price
-# c.__maxprice = 1000
-# c.sell()
+# change the price
+c.__maxprice = 1000
+c.sell()
 
-# # using setter function
-# c.setMaxPrice(1000)
-# c.sell()
+# using setter function
+c.setMaxPrice(1000)
+c.sell()
 
 #Polymorphism
 
