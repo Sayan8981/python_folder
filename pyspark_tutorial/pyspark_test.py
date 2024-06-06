@@ -1,16 +1,17 @@
 import pyspark
-from pyspark.sql import SparkSession
+import os
+# from pyspark.sql import SparkSession
 
-spark = SparkSession.builder.appName('Practice').getOrCreate()
-# Print Spark session details
-print("Spark session details:")
-print("Application Name:", spark.sparkContext.appName)
-print("Master URL:", spark.sparkContext.master)
-print("Spark UI URL:", spark.sparkContext.uiWebUrl)
+# spark = SparkSession.builder.appName('Practice').getOrCreate()
+# # Print Spark session details
+# print("Spark session details:")
+# print("Application Name:", spark.sparkContext.appName)
+# print("Master URL:", spark.sparkContext.master)
+# print("Spark UI URL:", spark.sparkContext.uiWebUrl)
 
-df_pyspark = spark.read.csv('test_pyspark.csv') 
-print(df_pyspark.show())
-print(df_pyspark)
+# df_pyspark = spark.read.csv('test_pyspark.csv') 
+# print(df_pyspark.show())
+# print(df_pyspark)
 
 # # # Read CSV file into a DataFrame
 # # df = spark.read.csv("data.csv", header=True, inferSchema=True)
@@ -92,50 +93,58 @@ print(df_pyspark)
 # word_counts = words.map(lambda word: (word, 1))
 
 # # Reduce by key to count occurrences of each word
-# word_counts = word_counts.reduceByKey(lambda x, y: x + y)
+# # word_counts = word_counts.reduceByKey(lambda x, y: x + y)
 
-# # Collect the result back to the driver
-# result = word_counts.collect()
+# # # Collect the result back to the driver
+# # result = word_counts.collect()
 
-# # Print word counts
-# for word, count in result:
-#     print(f"{word}: {count}")
+# # # Print word counts
+# # for word, count in result:
+# #     print(f"{word}: {count}")
 
-from pyspark.sql.functions import avg
+# from pyspark.sql.functions import avg
 
-# Create a DataFrame from a list of tuples
-data = [("Alice", "Sales", 1000),
-        ("Bob", "IT", 1500),
-        ("Alice", "Marketing", 2000),
-        ("Bob", "Sales", 1200)]
-df = spark.createDataFrame(data, ["Name", "Department", "Salary"])
+# # Create a DataFrame from a list of tuples
+# data = [("Alice", "Sales", 1000),
+#         ("Bob", "IT", 1500),
+#         ("Alice", "Marketing", 2000),
+#         ("Bob", "Sales", 1200)]
+# df = spark.createDataFrame(data, ["Name", "Department", "Salary"])
 
-# Group by department and calculate average salary
-avg_salary_df = df.groupBy("Department").agg(avg("Salary").alias("AvgSalary"))
+# # Group by department and calculate average salary
+# avg_salary_df = df.groupBy("Department").agg(avg("Salary").alias("AvgSalary"))
 
-# Show the average salary by department
-avg_salary_df.show()
+# # Show the average salary by department
+# avg_salary_df.show()
 
-# Create two DataFrames
-employees = [("Alice", 1), ("Bob", 2), ("Charlie", 3)]
-departments = [(1, "Sales"), (2, "Marketing"), (3, "IT")]
+# # Create two DataFrames
+# employees = [("Alice", 1), ("Bob", 2), ("Charlie", 3)]
+# departments = [(1, "Sales"), (2, "Marketing"), (3, "IT")]
 
-employees_df = spark.createDataFrame(employees, ["Name", "DeptId"])
-departments_df = spark.createDataFrame(departments, ["DeptId", "DeptName"])
+# employees_df = spark.createDataFrame(employees, ["Name", "DeptId"])
+# departments_df = spark.createDataFrame(departments, ["DeptId", "DeptName"])
 
-# Join DataFrames on DeptId
-joined_df = employees_df.join(departments_df, "DeptId")
+# # Join DataFrames on DeptId
+# joined_df = employees_df.join(departments_df, "DeptId")
 
-# Show the joined DataFrame
-joined_df.show()
+# # Show the joined DataFrame
+# joined_df.show()
 
-#Stop SparkSession
-spark.stop()
+# #Stop SparkSession
+# spark.stop()
 
 #######this is requires Hadoop installation in system
-# from pyspark import SparkContext 
+from pyspark import SparkContext 
 
-# sc = SparkContext("local", "TestApp")
+sc = SparkContext("local", "count app")
 
-# new_rdd = sc.parallelize([("Rose", 4), ("John",2), ("Yash", 1)])
-# new_rdd.take(2)
+# words = sc.parallelize(["scala", "java","Hadoop", "spark", "spark vs hadoop", "pyspark"])
+#import pdb;pdb.set_trace()
+# counts = words.count()
+# print(" %i"%counts)
+
+
+srcfile = os.getcwd() + '/input.txt'
+log_data = sc.textFile(srcfile).cache()
+numAs = log_data.filter(lambda s : 'n' in s).count()
+print ("Lines with n: %i"%numAs)
