@@ -146,5 +146,5 @@ sc = SparkContext("local", "count app")
 
 srcfile = os.getcwd() + '/input.txt'
 log_data = sc.textFile(srcfile).cache()
-numAs = log_data.filter(lambda s : 'n' in s).count()
-print ("Lines with n: %i"%numAs)
+numAs = log_data.filter(lambda s : 'n' not in s).count()
+print ("Lines without n: %i"%numAs)
