@@ -93,3 +93,19 @@ columns = ["firstname","middlename","lastname","dob","gender","salary"]
 df = spark.createDataFrame(data=data, schema=columns)
 df.printSchema()
 df.show()
+
+
+# Create spark session with local[5]
+rdd = spark.sparkContext.parallelize(range(0,20))
+print("From local[5] : "+str(rdd.getNumPartitions()))
+
+
+# Use parallelize with 6 partitions
+rdd1 = spark.sparkContext.parallelize(range(0,25), 6)
+#redistributes (increase or decrease partitions) data evenly across a specified number of partitions
+rdd2 = rdd1.repartition(9)
+print("parallelize : "+str(rdd2.getNumPartitions()))
+
+#used only to decrease the number of partitions
+rdd2 = rdd1.coalesce(2)
+print("parallelize coalesce : "+str(rdd2.getNumPartitions()))
