@@ -132,10 +132,12 @@ def state_conversion(code):
 result = rdd.map(lambda x : (x[0],x[1],x[2], state_conversion(x[3]))).collect()
 print (result)
 
-accum = spark.sparkContext.accumulator(0)
 rdd1 = spark.sparkContext.parallelize([12,3,4,5,5,4,3,44])
+
+accum = spark.sparkContext.accumulator(0)
 rdd1.foreach(lambda x : accum.add(x))
 print ("addition:", accum.value)
 
+accum = spark.sparkContext.accumulator(0)
 rdd1.foreach(lambda x : accum.add(1))
 print ("accum_count:", accum.value)
