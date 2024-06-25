@@ -1,5 +1,6 @@
 from pyspark.sql import SparkSession
 import os 
+import array
 # import psutil
 # print(psutil.__version__)
 # import sys
@@ -109,3 +110,24 @@ print("parallelize : "+str(rdd2.getNumPartitions()))
 #used only to decrease the number of partitions
 rdd2 = rdd1.coalesce(2)
 print("parallelize coalesce : "+str(rdd2.getNumPartitions()))
+
+broadcast = spark.sparkContext.broadcast(array.array('i', [12,1,2,3,4,5,6]))
+print (broadcast.value)
+
+states = {"NY":"New York", "CA":"California", "FL":"Florida"}
+
+broadcastStates = spark.sparkContext.broadcast(states)
+print (broadcastStates.value)
+
+data = [("James","Smith","USA","CA"),
+    ("Michael","Rose","USA","NY"),
+    ("Robert","Williams","USA","CA"),
+    ("Maria","Jones","USA","FL")
+  ]
+
+rdd = spark.sparkContext.parallelize(data)
+def state_conversion(code):
+    return broadcastStates.value[code]
+
+result = rdd.map(lambda x : (x[0],x[1],x[2], state_conversion(x[3]))).collect()
+print (result)
