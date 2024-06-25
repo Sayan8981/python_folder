@@ -141,3 +141,22 @@ print ("addition:", accum.value)
 accum = spark.sparkContext.accumulator(0)
 rdd1.foreach(lambda x : accum.add(1))
 print ("accum_count:", accum.value)
+
+#Creates Empty RDD using parallelize
+rdd1 = spark.sparkContext.parallelize([])
+
+#Creates Empty RDD
+emptyRDD = spark.sparkContext.emptyRDD()
+print (type(emptyRDD))
+
+#Create Empty DataFrame with Schema (StructType)
+
+from pyspark.sql.types import StructField, StructType, StringType
+schema = StructType([
+    StructField("first_name", StringType(), True),
+    StructField("Last_name", StringType(), True)
+])
+
+df = spark.createDataFrame(schema=schema, data=emptyRDD)
+df.printSchema()
+df.show(truncate=False)
