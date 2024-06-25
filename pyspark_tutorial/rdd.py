@@ -149,6 +149,7 @@ rdd1 = spark.sparkContext.parallelize([])
 emptyRDD = spark.sparkContext.emptyRDD()
 print (type(emptyRDD))
 
+data = [("Saayan", "Das")]
 #Create Empty DataFrame with Schema (StructType)
 
 from pyspark.sql.types import StructField, StructType, StringType
@@ -157,6 +158,6 @@ schema = StructType([
     StructField("Last_name", StringType(), True)
 ])
 
-df = spark.createDataFrame(schema=schema, data=emptyRDD)
+df = spark.createDataFrame(schema=schema, data=data)
 df.printSchema()
 df.show(truncate=False)
