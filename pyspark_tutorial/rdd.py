@@ -162,6 +162,55 @@ df = spark.createDataFrame(schema=schema, data=data)
 df.printSchema()
 df.show(truncate=False)
 
+df.select(df.first_name).show()
+
+#using col function
+from pyspark.sql.functions import col
+
+df.select(col("last_name")).show()
 #Convert Spark Nested Struct DataFrame to Pandas
 pandasdf = df.toPandas()
 print (pandasdf)
+
+#create dataframe using row 
+from pyspark.sql import Row
+
+data = [Row(name="James", prop=Row(hair="black", eye="blue")),
+        Row(name="Ann", prop=Row(hair="brown", eye="black"))]
+
+df = spark.createDataFrame(data)
+df.printSchema()
+df.show()
+
+df.select(col("name")).show()
+df.select(df["prop.hair"]).show()
+df.select(col("prop.*")).show()
+
+from pyspark.sql.functions import expr
+
+data=[("James","Bond","100",None),
+      ("Ann","Varsa","200",'F'),
+      ("Tom Cruise","XXX","400",''),
+      ("Tom Brand",None,"400",'M')] 
+columns=["fname","lname","id","gender"]
+df=spark.createDataFrame(data,columns)
+
+df.select(df.fname.alias("first_name"),\
+          df.lname.alias("last_name")
+          ).show()
+
+df.select(expr(" fname ||', '|| lname").alias("fulname") \
+          ).show()
+
+#contains
+df.filter(df.fname.contains("Cruise")).show()
+
+#startswith, endswith()
+df.filter(df.fname.startswith("T")).show()
+df.filter(df.fname.endswith("Cruise")).show()
+#isNull & isNotNull
+df.filter(df.lname.isNull()).show()
+df.filter(df.lname.isNotNull()).show()
+#like , rlike
+df.select(df.fname,df.lname,df.id) \
+  .filter(df.fname.like("%om"))
