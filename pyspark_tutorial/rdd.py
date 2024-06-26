@@ -161,3 +161,7 @@ schema = StructType([
 df = spark.createDataFrame(schema=schema, data=data)
 df.printSchema()
 df.show(truncate=False)
+
+#Convert Spark Nested Struct DataFrame to Pandas
+pandasdf = df.toPandas()
+print (pandasdf)
