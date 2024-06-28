@@ -247,3 +247,7 @@ df6 = df.withColumn("Country", lit("USA")) \
     .withColumn("anotherColumn", lit("anotheValue"))
 df6.printSchema()
 df6.show(truncate=False)
+
+df = df.withColumnRenamed("gender", "Sex")
+df.printSchema()
+df.show(truncate=False)
