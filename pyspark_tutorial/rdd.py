@@ -251,3 +251,7 @@ df6.show(truncate=False)
 df = df.withColumnRenamed("gender", "Sex")
 df.printSchema()
 df.show(truncate=False)
+
+df6 = df6.drop("anotherColumn")
+df6.printSchema()
+df6.show(truncate=False)
