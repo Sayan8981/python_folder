@@ -165,7 +165,7 @@ df.show(truncate=False)
 df.select(df.first_name).show()
 
 #using col function
-from pyspark.sql.functions import col
+from pyspark.sql.functions import col, lit
 
 df.select(col("last_name")).show()
 #Convert Spark Nested Struct DataFrame to Pandas
@@ -214,3 +214,36 @@ df.filter(df.lname.isNotNull()).show()
 #like , rlike
 df.select(df.fname,df.lname,df.id) \
   .filter(df.fname.like("%om"))
+  
+data = [('James','','Smith','1991-04-01','M',3000),
+  ('Michael','Rose','','2000-05-19','M',4000),
+  ('Robert','','Williams','1978-09-05','M',4000),
+  ('Maria','Anne','Jones','1967-12-01','F',4000),
+  ('Jen','Mary','Brown','1980-02-17','F',-1)
+]
+
+columns = ["firstname","middlename","lastname","dob","gender","salary"]
+df = spark.createDataFrame(data=data, schema = columns)
+df.printSchema()
+df.show(truncate=False)
+
+df2 = df.withColumn("salary", col("salary").cast("Integer"))
+df2.printSchema()
+df2.show(truncate=False)
+
+df3 = df.withColumn("salary", col("salary")*1000)
+df3.printSchema()
+df3.show(truncate=False)
+
+df4 = df.withColumn("CopiedColumn", col("salary")* -1)
+df4.printSchema()
+df4.show(truncate=False)
+
+df5 = df.withColumn("Country", lit("USA"))
+df5.printSchema()
+df5.show(truncate=False)
+
+df6 = df.withColumn("Country", lit("USA")) \
+    .withColumn("anotherColumn", lit("anotheValue"))
+df6.printSchema()
+df6.show(truncate=False)
