@@ -87,5 +87,13 @@ def fibbo(series):
         fib_series.append(next_series)
     return fib_series[:series]    
         
-print (fibbo(10))        
+print (fibbo(10))    
+
+def fibbo(series):
+    a , b = 0, 1
+    for i in range (series):
+        yield a
+        a, b = b, a+b      
+        
+print (list(fibbo(20)))    
         
