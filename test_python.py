@@ -95,5 +95,19 @@ def fibbo(series):
         yield a
         a, b = b, a+b      
         
-print (list(fibbo(20)))    
+print (list(fibbo(20)))   
+
+
+def fibbo(n):
+    if n<=1:
+        return n
+    else:
+        return (fibbo(n-1) + fibbo(n-2))
+    
+series = 10
+list_ = []
+    
+for i in range(series):
+    print (fibbo(i))    
+     
         
