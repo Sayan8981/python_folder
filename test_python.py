@@ -69,7 +69,7 @@ for i in range(0,5):
     print (' '*(5-i-1)+'*'*(2*i+1))    
     
 def armstrng(n):
-    sum_ =0
+    sum_ = 0
     temp = n
     #import pdb;pdb.set_trace()
     while temp > 0:
