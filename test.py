@@ -47,3 +47,19 @@ print("This is the squre list:", sqr_list)
 print (dict_.items())
 dict_list = {num[0]:num[1]**3 for num in dict_.items()}
 print (dict_list)
+
+
+
+
+# print the list in sorted descending order
+
+list_ = [11,3,66,77,43,90] #op : [90,77,66,43,11,3]
+
+temp = []
+
+for i in range(len(list_)):
+    for j in range(0, len(list_) - i - 1):
+        if list_[j] < list_[j + 1]:  # Swap if the element found is smaller than the next element
+            list_[j], list_[j + 1] = list_[j + 1], list_[j]           
+            
+print (list_)
