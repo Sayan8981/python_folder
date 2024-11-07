@@ -1,4 +1,8 @@
-
+def hello_decorator1(func1):
+    def inner2():
+        print ("another decorator called........")
+        func1()
+    return inner2   
 
 # defining a decorator  
 def hello_decorator(func):  
@@ -18,7 +22,8 @@ def hello_decorator(func):
         print("This is after function execution")  
             
     return inner1  
-    
+
+@hello_decorator1    
 @hello_decorator    
 # defining a function, to be called inside wrapper  
 def function_to_be_used():  
