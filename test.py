@@ -63,3 +63,17 @@ for i in range(len(list_)):
             list_[j], list_[j + 1] = list_[j + 1], list_[j]           
             
 print (list_)
+
+#reverse of a string
+
+strng = "Saayan Das"
+temp = []
+print (strng)
+
+#import pdb;pdb.set_trace()
+
+for i in range(0,len(strng)):
+    temp.append(strng[len(strng)-i-1])
+            
+    
+print ("".join(temp))
