@@ -77,3 +77,26 @@ for i in range(0,len(strng)):
             
     
 print ("".join(temp))
+
+
+#to get the maximum sum of the two adjascent letters
+data = {"a": 16, "b": 12, "c":13, "d":25, "e":40}
+
+temp = []
+
+for item in data.values():
+    temp.append(item)
+   
+print (temp)
+sum_ = [0]
+letters = [0] 
+
+for i in range(len(temp)):
+    for j in range (0, len(temp)):
+        if j != i and temp[i]+temp[j] > sum_[0]: 
+           sum_[0] = temp[i] + temp[j]
+           
+print (sum_) 
+           
+                        
+            
