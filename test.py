@@ -99,4 +99,50 @@ for i in range(len(temp)):
 print (sum_) 
            
                         
-            
+
+lst = [1,2,3,4,5,6]
+
+
+def func(lst):
+    temp = []
+    print (lst)
+    for index in range(len(lst)-1, 0, -1):  
+        #import pdb;pdb.set_trace()      
+        temp.append(lst[index])
+    print (temp)
+    temp.insert(0, lst[0])
+    #import pdb;pdb.set_trace()
+    return temp
+
+print (func(lst))     
+
+
+a = lambda x,y : x * y 
+
+
+class test(object):
+
+    def __init__(self):
+
+        self.employee_name = 'Saayan Das'
+        self.employee_adress = "XYZ"
+
+    def func1(self, employee_name, employee_adres):
+        self.employee_name = employee_name
+        self.employee_adress = employee_adres
+        return (self.employee_name, self.employee_adress)
+
+    def func(self):
+        return (self.employee_name, self.employee_adress)
+
+ 
+obj_ = test()
+
+chnge = obj_.func1("saayanDas", "rytu")
+
+print (chnge)
+
+print (obj_.func())
+
+
+           
