@@ -44,12 +44,14 @@ class ThreadSafeLRUCache:
             self.cache[key] = value
             
             #if over capacity , remove the LRU
-            if len(cache) > self.capacity:
-                self.cache.popitem(last=False)    
+            if len(self.cache) > self.capacity:
+                print(f"removing the LRU : {self.cache[key]}")
+                self.cache.popitem(last=False)  
+                  
                 
         
 def worker(cache, tid):
-    for i in range(7):
+    for i in range(1):
         key = f"{tid}-{i}"
         val = cache.put(key, i)
         print (f"put method: thread-{tid}-id:{i} : {val}")
