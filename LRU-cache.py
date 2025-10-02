@@ -1,9 +1,13 @@
+"""
+   Implementing thread-safe LRU cache
+"""
+
 import threading
 from collections import OrderedDict
 import time
 
-"""
-concept
+""" 
+concept:-
     LRU cache stores the limited number of items to add.
     when it reaches the capacity and new item is added 
      -> it removes the least recently used(oldest) item
@@ -36,11 +40,20 @@ class ThreadSafeLRUCache:
         """need to insert or update a key."""
         with self.lock:
             if key in self.cache:
+                self.cache.move_to_end(key)
+            self.cache[key] = value
+            
+            #if over capacity , remove the LRU
+            if len(cache) > self.capacity:
+                self.cache.popitem(last=False)    
                 
         
 def worker(cache, tid):
     for i in range(7):
         key = f"{tid}-{i}"
+        val = cache.put(key, i)
+        print (f"put method: thread-{tid}-id:{i} : {val}")
+        time.sleep(1)
         val = cache.get(key)
         print (f"thread-{tid}-id:{i} : {val}")
         
