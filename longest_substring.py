@@ -15,6 +15,7 @@ class Solution(object):
             if current_window_length > max_len:
                 max_len = i-start+1
                 max_subs = s[start:i+1]
+                
         print (last_seen, max_subs, max_len)        
         return max_len
     
