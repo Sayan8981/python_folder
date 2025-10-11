@@ -29,3 +29,8 @@ class Solution(object):
                 return True
             
         return False    
+    
+array_ = [1, 2, 2, 3, 3, 4, 3]
+print (sorted(array_))
+originl_array = set(sorted(array_))
+print (list(originl_array))
