@@ -37,7 +37,7 @@ print (list(originl_array))
 
 
 
-def profit_list(price_list):
+def profit_list(price_list: list):
     profit_dict = dict()
     #iterate through the price listed 
     for price_index in range(0,len(price_list)):
