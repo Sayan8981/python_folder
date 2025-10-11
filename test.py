@@ -57,4 +57,5 @@ def profit_list(price_list):
 price_list = [10,9,16,17,19,23]#[500,120,130,250,100,80]
 profit_dict = profit_list(price_list=price_list)
 
+#to get the maximum profit
 print ({str(max(profit_dict,key = lambda x: profit_dict[x])): profit_dict.get(max(profit_dict,key = lambda x: profit_dict[x]))}) 
