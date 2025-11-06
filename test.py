@@ -135,3 +135,17 @@ salary_list = data['Salary']
 unique_salaries = list(set(salary_list))
 nth_salary = sorted(unique_salaries, reverse=True)[N-1]
 print(f"The {N}th highest salary from list is: {nth_salary}")
+
+
+def fibonacci(n):
+    fib_sequence = []
+    a, b = 0, 1
+    for _ in range(n):
+        fib_sequence.append(a)
+        a, b = b, a + b
+    return fib_sequence
+
+# Example Usage:
+n_terms = 10
+fib_sequence = fibonacci(n_terms)
+print(f"Fibonacci sequence with {n_terms} terms: {fib_sequence}")
